@@ -866,6 +866,12 @@ form  input {
     width: 250px;
     margin: auto;
   }
+  .signup-form .icons div {
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+    padding-left: 1.2rem;
+  }
+
   .hero-section .container {
     display:flex;
     justify-content: space-around;
