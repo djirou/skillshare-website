@@ -714,14 +714,14 @@ form  input {
 
   .signup-section {
     position: relative;
-    top: 0;
+    top: -48vh;
     left: 0;
     right: 0;
   }
 
   .footer-2 {
     position: relative;
-    top: 145vh;   
+    top: -50vh;   
   }
   .header {
     display: none;
