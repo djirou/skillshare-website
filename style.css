@@ -421,7 +421,7 @@ header {
 }
 
 .signup-section-content {
-  width: 600px;
+  width: 550px;
   margin: auto;
   /* padding-top: 6rem; */
 }
@@ -857,6 +857,14 @@ form  input {
 
   .signup-section-content {
     width: 400px;
+    margin: auto;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+
+  .signup-section .signup-form {
+    width: 250px;
+    margin: auto;
   }
   .hero-section .container {
     display:flex;
