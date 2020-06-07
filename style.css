@@ -872,6 +872,10 @@ form  input {
     padding-left: 1.2rem;
   }
 
+  .signup-form input {
+    padding: 0.5rem;
+  }
+
   .hero-section .container {
     display:flex;
     justify-content: space-around;
